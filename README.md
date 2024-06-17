@@ -1,6 +1,11 @@
 
 ---
 
+![CUBE LED](https://github.com/Miles-White/LED-Cube/assets/131509706/4f80202b-38cb-4ed5-b058-00c7d4b30c0f)
+
+
+
+
 **Projet de Cube LED 3D (4 x 4 x 4)**
 
 Dans ce dossier, vous trouverez les différentes versions des programmes que j'ai réalisés.
