@@ -1,5 +1,3 @@
-Voici le texte corrigé et reformulé pour plus de clarté :
-
 ---
 
 **Projet de Cube LED 3D (4 x 4 x 4)**
